@@ -77,7 +77,7 @@ if ($result && mysqli_num_rows($result)) {
         echo '</tr>';
     }
 
-    echo '<tr><td colspan="5"><a href="cutpage_2.php?page=1">首页</a>  <a href="cutpage_2.php?page=' . ($page - 1) . '">上一页</a>   <a href="cutpage_2.php?page=' . ($page + 1) . '">下一页</a>  <a href="cutpage_2.php?page=' . $total . '">尾页</a>  当前是第 ' . $page . '页  共' . $total . '页 </td></tr>';
+    echo '<tr><td colspan="5"><a href="cutpage.php?page=1">首页</a>  <a href="cutpage.php?page=' . ($page - 1) . '">上一页</a>   <a href="cutpage.php?page=' . ($page + 1) . '">下一页</a>  <a href="cutpage.php?page=' . $total . '">尾页</a>  当前是第 ' . $page . '页  共' . $total . '页 </td></tr>';
 
     echo '</table>';
 
