@@ -1,5 +1,7 @@
 建立名为user_login的数据库；
+====
 数据库中建立表users；
+====
 users表中有username和password两个字段；
 login文件夹是登录功能的实现：{
     login.html文件是静态登录页面；
