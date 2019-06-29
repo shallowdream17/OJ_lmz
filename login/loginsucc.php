@@ -27,7 +27,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a align="center" class="blue" href="login.html"><input type="button" value="注销"/></a>
-    <a align="center" class="blue" href="cutpage_2.php"><input type="button" value="进入游戏"/></a>
+    <a align="center" class="blue" href="../cutpage.php"><input type="button" value="进入游戏"/></a>
 </div>
 </body>
 </html>
