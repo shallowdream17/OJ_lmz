@@ -16,7 +16,7 @@
 <?php
 header("Content-Type: text/html;charset=utf-8");
 //建立连接
-$conn = mysqli_connect('139.196.160.174/localhost','root','woaixuexi.');
+$conn = mysqli_connect('localhost','root','woaixuexi.');
 if($conn){
     $select = mysqli_select_db($conn,"user_login");		//选择数据库
     if(isset($_POST["subr"])){
