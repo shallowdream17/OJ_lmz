@@ -2,154 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fc81fcf-d67b-4d70-8c21-5f1c8064454b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OJ_lmz.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Upimage_judge.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assembly/jqarticle/jparticle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assembly/zylVerificationCode/zylVerificationCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1563444705hyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1563444803hyd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/carousel/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/carousel/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/font/iconfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/transfer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lose/cutpage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/read_photo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/a_0001_20190724102803458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/a_0001_20190724102807800.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/a_0001_20190724102813367.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/a_0001_20190724103012902.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_12_20190724102423762.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_12_20190724102448626.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_12_20190724102456496.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_12_20190724102502267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_13_20190724103207212.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_13_20190724103211392.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/upload/lmz_13_20190724103215156.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cutpage.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginfal.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loginsucc.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registersucc.php" beforeDir="false" afterPath="$PROJECT_DIR$/registersucc.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -164,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+            <state relative-caret-position="69">
+              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -176,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="230">
               <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
             </state>
           </provider>
@@ -192,10 +47,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user.php">
+        <entry file="file://$PROJECT_DIR$/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+            <state relative-caret-position="207">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/registersucc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -212,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -220,18 +84,6 @@
                 <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lose/cutpage.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2300">
-              <caret line="100" column="5" selection-start-line="100" selection-start-column="5" selection-end-line="100" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -272,7 +124,6 @@
         <option value="$PROJECT_DIR$/verify_session.php" />
         <option value="$PROJECT_DIR$/logout.php" />
         <option value="$PROJECT_DIR$/registersucc.php" />
-        <option value="$PROJECT_DIR$/register.php" />
         <option value="$PROJECT_DIR$/upload.php" />
         <option value="$PROJECT_DIR$/user.php" />
         <option value="$PROJECT_DIR$/choose.php" />
@@ -300,10 +151,11 @@
         <option value="$PROJECT_DIR$/UpImage/user.php" />
         <option value="$PROJECT_DIR$/UpImage/Upimage_judge.php" />
         <option value="$PROJECT_DIR$/UpImage/read_photo.php" />
-        <option value="$PROJECT_DIR$/read_photo.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/admin.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/read_photo.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -340,6 +192,11 @@
             <path>
               <item name="OJ_lmz" type="b2602c69:ProjectViewProjectNode" />
               <item name="OJ_lmz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OJ_lmz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OJ_lmz" type="462c0819:PsiDirectoryNode" />
+              <item name="upload" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -402,7 +259,7 @@
       <workItem from="1562040247832" duration="809000" />
       <workItem from="1563418432995" duration="220000" />
       <workItem from="1563418943366" duration="5402000" />
-      <workItem from="1563436440202" duration="51941000" />
+      <workItem from="1563436440202" duration="54270000" />
     </task>
     <task id="LOCAL-00001" summary="登录注册功能的整体框架说明。">
       <created>1561819496406</created>
@@ -488,11 +345,32 @@
       <option name="project" value="LOCAL" />
       <updated>1563935708585</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="登录注册功能的整体框架说明。_上传图片功能完善">
+      <created>1563936061263</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1563936061263</updated>
+    </task>
+    <task id="LOCAL-00014" summary="登录注册功能的整体框架说明。_上传图片功能完善_1">
+      <created>1563938578822</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1563938578822</updated>
+    </task>
+    <task id="LOCAL-00015" summary="登录注册功能的整体框架说明。_上传图片功能完善_1">
+      <created>1563938592714</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563938592714</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61079000" />
+    <option name="totallyTimeSpent" value="63408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -547,182 +425,10 @@
     <MESSAGE value="登录注册功能的整体框架说明。_2" />
     <MESSAGE value="登录注册功能的整体框架说明。_3" />
     <MESSAGE value="登录注册功能的整体框架说明。_上传图片功能完善" />
-    <option name="LAST_COMMIT_MESSAGE" value="登录注册功能的整体框架说明。_上传图片功能完善" />
+    <MESSAGE value="登录注册功能的整体框架说明。_上传图片功能完善_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录注册功能的整体框架说明。_上传图片功能完善_1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lose/loginfal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="30" column="49" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lose/loginsucc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/registersucc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#635#641#0#HTML" expanded="true" />
-            <element signature="e#641#647#0#HTML" expanded="true" />
-            <element signature="e#647#653#0#HTML" expanded="true" />
-            <element signature="e#653#659#0#HTML" expanded="true" />
-            <element signature="e#659#665#0#HTML" expanded="true" />
-            <element signature="e#665#671#0#HTML" expanded="true" />
-            <element signature="e#671#677#0#HTML" expanded="true" />
-            <element signature="e#677#683#0#HTML" expanded="true" />
-            <element signature="e#683#689#0#HTML" expanded="true" />
-            <element signature="e#689#695#0#HTML" expanded="true" />
-            <element signature="e#695#701#0#HTML" expanded="true" />
-            <element signature="e#701#707#0#HTML" expanded="true" />
-            <element signature="e#708#714#0#HTML" expanded="true" />
-            <element signature="e#714#720#0#HTML" expanded="true" />
-            <element signature="e#720#726#0#HTML" expanded="true" />
-            <element signature="e#726#732#0#HTML" expanded="true" />
-            <element signature="e#732#738#0#HTML" expanded="true" />
-            <element signature="e#738#744#0#HTML" expanded="true" />
-            <element signature="e#744#750#0#HTML" expanded="true" />
-            <element signature="e#750#756#0#HTML" expanded="true" />
-            <element signature="e#756#762#0#HTML" expanded="true" />
-            <element signature="e#762#768#0#HTML" expanded="true" />
-            <element signature="e#768#774#0#HTML" expanded="true" />
-            <element signature="e#774#780#0#HTML" expanded="true" />
-            <element signature="e#785#791#0#HTML" expanded="true" />
-            <element signature="e#791#797#0#HTML" expanded="true" />
-            <element signature="e#797#803#0#HTML" expanded="true" />
-            <element signature="e#803#809#0#HTML" expanded="true" />
-            <element signature="e#809#815#0#HTML" expanded="true" />
-            <element signature="e#815#821#0#HTML" expanded="true" />
-            <element signature="e#821#827#0#HTML" expanded="true" />
-            <element signature="e#827#833#0#HTML" expanded="true" />
-            <element signature="e#833#839#0#HTML" expanded="true" />
-            <element signature="e#839#845#0#HTML" expanded="true" />
-            <element signature="e#845#851#0#HTML" expanded="true" />
-            <element signature="e#851#857#0#HTML" expanded="true" />
-            <element signature="e#858#864#0#HTML" expanded="true" />
-            <element signature="e#864#870#0#HTML" expanded="true" />
-            <element signature="e#870#876#0#HTML" expanded="true" />
-            <element signature="e#876#882#0#HTML" expanded="true" />
-            <element signature="e#882#888#0#HTML" expanded="true" />
-            <element signature="e#888#894#0#HTML" expanded="true" />
-            <element signature="e#894#900#0#HTML" expanded="true" />
-            <element signature="e#900#906#0#HTML" expanded="true" />
-            <element signature="e#906#912#0#HTML" expanded="true" />
-            <element signature="e#912#918#0#HTML" expanded="true" />
-            <element signature="e#918#924#0#HTML" expanded="true" />
-            <element signature="e#924#930#0#HTML" expanded="true" />
-            <element signature="e#935#941#0#HTML" expanded="true" />
-            <element signature="e#941#947#0#HTML" expanded="true" />
-            <element signature="e#947#953#0#HTML" expanded="true" />
-            <element signature="e#953#959#0#HTML" expanded="true" />
-            <element signature="e#959#965#0#HTML" expanded="true" />
-            <element signature="e#965#971#0#HTML" expanded="true" />
-            <element signature="e#971#977#0#HTML" expanded="true" />
-            <element signature="e#977#983#0#HTML" expanded="true" />
-            <element signature="e#983#989#0#HTML" expanded="true" />
-            <element signature="e#989#995#0#HTML" expanded="true" />
-            <element signature="e#995#1001#0#HTML" expanded="true" />
-            <element signature="e#1001#1007#0#HTML" expanded="true" />
-            <element signature="e#1008#1014#0#HTML" expanded="true" />
-            <element signature="e#1014#1020#0#HTML" expanded="true" />
-            <element signature="e#1020#1026#0#HTML" expanded="true" />
-            <element signature="e#1026#1032#0#HTML" expanded="true" />
-            <element signature="e#1032#1038#0#HTML" expanded="true" />
-            <element signature="e#1038#1044#0#HTML" expanded="true" />
-            <element signature="e#1044#1050#0#HTML" expanded="true" />
-            <element signature="e#1050#1056#0#HTML" expanded="true" />
-            <element signature="e#1056#1062#0#HTML" expanded="true" />
-            <element signature="e#1062#1068#0#HTML" expanded="true" />
-            <element signature="e#1068#1074#0#HTML" expanded="true" />
-            <element signature="e#1074#1080#0#HTML" expanded="true" />
-            <element signature="e#1085#1091#0#HTML" expanded="true" />
-            <element signature="e#1091#1097#0#HTML" expanded="true" />
-            <element signature="e#1097#1103#0#HTML" expanded="true" />
-            <element signature="e#1103#1109#0#HTML" expanded="true" />
-            <element signature="e#1109#1115#0#HTML" expanded="true" />
-            <element signature="e#1115#1121#0#HTML" expanded="true" />
-            <element signature="e#1121#1127#0#HTML" expanded="true" />
-            <element signature="e#1127#1133#0#HTML" expanded="true" />
-            <element signature="e#1133#1139#0#HTML" expanded="true" />
-            <element signature="e#1139#1145#0#HTML" expanded="true" />
-            <element signature="e#1145#1151#0#HTML" expanded="true" />
-            <element signature="e#1151#1157#0#HTML" expanded="true" />
-            <element signature="e#1158#1164#0#HTML" expanded="true" />
-            <element signature="e#1164#1170#0#HTML" expanded="true" />
-            <element signature="e#1170#1176#0#HTML" expanded="true" />
-            <element signature="e#1176#1182#0#HTML" expanded="true" />
-            <element signature="e#1182#1188#0#HTML" expanded="true" />
-            <element signature="e#1188#1194#0#HTML" expanded="true" />
-            <element signature="e#1194#1200#0#HTML" expanded="true" />
-            <element signature="e#1200#1206#0#HTML" expanded="true" />
-            <element signature="e#1206#1212#0#HTML" expanded="true" />
-            <element signature="e#1212#1218#0#HTML" expanded="true" />
-            <element signature="e#1218#1224#0#HTML" expanded="true" />
-            <element signature="e#1224#1230#0#HTML" expanded="true" />
-            <element signature="e#1235#1241#0#HTML" expanded="true" />
-            <element signature="e#1241#1247#0#HTML" expanded="true" />
-            <element signature="e#1247#1253#0#HTML" expanded="true" />
-            <element signature="e#1253#1259#0#HTML" expanded="true" />
-            <element signature="e#1259#1265#0#HTML" expanded="true" />
-            <element signature="e#1265#1271#0#HTML" expanded="true" />
-            <element signature="e#1271#1277#0#HTML" expanded="true" />
-            <element signature="e#1277#1283#0#HTML" expanded="true" />
-            <element signature="e#1283#1289#0#HTML" expanded="true" />
-            <element signature="e#1289#1295#0#HTML" expanded="true" />
-            <element signature="e#1295#1301#0#HTML" expanded="true" />
-            <element signature="e#1301#1307#0#HTML" expanded="true" />
-            <element signature="e#1308#1314#0#HTML" expanded="true" />
-            <element signature="e#1314#1320#0#HTML" expanded="true" />
-            <element signature="e#1320#1326#0#HTML" expanded="true" />
-            <element signature="e#1326#1332#0#HTML" expanded="true" />
-            <element signature="e#1332#1338#0#HTML" expanded="true" />
-            <element signature="e#1338#1344#0#HTML" expanded="true" />
-            <element signature="e#1344#1350#0#HTML" expanded="true" />
-            <element signature="e#1350#1356#0#HTML" expanded="true" />
-            <element signature="e#1356#1362#0#HTML" expanded="true" />
-            <element signature="e#1362#1368#0#HTML" expanded="true" />
-            <element signature="e#1368#1374#0#HTML" expanded="true" />
-            <element signature="e#1374#1380#0#HTML" expanded="true" />
-            <element signature="e#1385#1391#0#HTML" expanded="true" />
-            <element signature="e#1391#1397#0#HTML" expanded="true" />
-            <element signature="e#1397#1403#0#HTML" expanded="true" />
-            <element signature="e#1403#1409#0#HTML" expanded="true" />
-            <element signature="e#1409#1415#0#HTML" expanded="true" />
-            <element signature="e#1415#1421#0#HTML" expanded="true" />
-            <element signature="e#1421#1427#0#HTML" expanded="true" />
-            <element signature="e#1427#1433#0#HTML" expanded="true" />
-            <element signature="e#1433#1439#0#HTML" expanded="true" />
-            <element signature="e#1439#1445#0#HTML" expanded="true" />
-            <element signature="e#1445#1451#0#HTML" expanded="true" />
-            <element signature="e#1451#1457#0#HTML" expanded="true" />
-            <element signature="e#1457#1463#0#HTML" expanded="true" />
-            <element signature="e#1463#1469#0#HTML" expanded="true" />
-            <element signature="e#1469#1475#0#HTML" expanded="true" />
-            <element signature="e#1475#1481#0#HTML" expanded="true" />
-            <element signature="e#1481#1487#0#HTML" expanded="true" />
-            <element signature="e#1487#1493#0#HTML" expanded="true" />
-            <element signature="e#1493#1499#0#HTML" expanded="true" />
-            <element signature="e#1499#1505#0#HTML" expanded="true" />
-            <element signature="e#1505#1511#0#HTML" expanded="true" />
-            <element signature="e#1511#1517#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="818">
-          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photo/getimage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -905,9 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logout.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/cutphoto.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -942,12 +645,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/Upimage_judge.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        <state relative-caret-position="161">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registersucc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/a_0002_20190724113112802.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload/a_0002_20190724113121446.gif">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/read_photo.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -959,27 +695,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Upimage_judge.php">
+    <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="207">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin.php">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="368">
-            <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
+        <state relative-caret-position="69">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>

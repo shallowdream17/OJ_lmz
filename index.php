@@ -1,7 +1,7 @@
 <?php
 header("Content-Type: text/html;charset=utf-8");
 //建立连接
-$conn = mysqli_connect('139.196.160.174','root','woaixuexi.');
+$conn = mysqli_connect('139.196.160.174/localhost','root','woaixuexi.');
 session_start();
 $_SESSION["admin"] = null;
 $_SESSION["user"] = null;
